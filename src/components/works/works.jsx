@@ -8,16 +8,16 @@ export default function Works() {
     {
       id: "1",
       icon: "icon of software development or work",
-      title: "Software Developer",
-      desc: "Software Developer worked on different projects which includes Modile Application developement , Backend Developement , Website Developement using Wordpress",
-      img: "img address",
+      title: "Software Developer Inter",
+      desc: "Software Developer worked on different projects which included Mobile Application developement , Backend Developement , Website Developement using Wordpress",
+      img: "assets/software.jpg",
     },
     {
       id: "2",
       icon: "icon of r&d  or work",
-      title: "R&D Intern",
-      desc: "R&D Intern",
-      img: "img address",
+      title: "Research & Development Intern",
+      desc: "",
+      img: "assets/RD.jpg",
     },
   ];
 

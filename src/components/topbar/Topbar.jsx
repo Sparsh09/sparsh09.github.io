@@ -10,16 +10,24 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
             genius.
           </a>
           <div className="itemContainer">
-            <Person classnName="icon" />
-            <span>+91 7027264421</span>
-          </div>
-          <div className="itemContainer">
-            <Mail classnName="icon" />
+            <Mail className="icon" />
             <span>mehtasparsh777@gmail.com</span>
           </div>
         </div>
         <div className="right">
-          <div className="hamburger" onClick = {() => setMenuOpen(!menuOpen)}>
+          <div className="socialmedia">
+            <div className="itemContainer pic">
+              <a href="https://www.linkedin.com/in/sparsh29/">
+                <img src="assets/linkedin.png" alt="" className="icon" />
+              </a>
+            </div>
+            <div className="itemContainer pic">
+              <a href="https://github.com/sparsh09">
+                <img src="assets/twitter.png" alt="" className="icon" />
+              </a>
+            </div>
+          </div>
+          <div className="hamburger" onClick={() => setMenuOpen(!menuOpen)}>
             <span className="line1"></span>
             <span className="line2"></span>
             <span className="line3"></span>
