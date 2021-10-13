@@ -21,7 +21,10 @@ export default function Intro() {
     <div className="intro" id="intro">
       <div className="left">
         <div className="imgContainer">
-          <img src="assets/code.gif" alt="" />
+//           <img src="assets/code.gif" alt="" />
+              <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
+                <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen />
+              </div>
         </div>
       </div>
       <div className="right">
