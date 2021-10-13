@@ -47,7 +47,7 @@ export default function Works() {
                 </div>
               </div>
               <div className="right">
-                <img src="" alt="" />
+                <img src={d.img} alt="" />
               </div>
             </div>
           </div>
