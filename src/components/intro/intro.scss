@@ -28,7 +28,8 @@
       }
 
       img {
-        height: 50%;
+        height: 70%;
+        width:40%;
         @include mobile {
           height : 50%;
         }
