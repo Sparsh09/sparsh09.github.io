@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sparshmehta/static/css/main.bb56d157.chunk.css",
+    "main.css": "/sparshmehta/static/css/main.84aa649e.chunk.css",
     "main.js": "/sparshmehta/static/js/main.43df0ca2.chunk.js",
     "main.js.map": "/sparshmehta/static/js/main.43df0ca2.chunk.js.map",
     "runtime-main.js": "/sparshmehta/static/js/runtime-main.7fa2049a.js",
@@ -8,13 +8,13 @@
     "static/js/2.d5f5fe82.chunk.js": "/sparshmehta/static/js/2.d5f5fe82.chunk.js",
     "static/js/2.d5f5fe82.chunk.js.map": "/sparshmehta/static/js/2.d5f5fe82.chunk.js.map",
     "index.html": "/sparshmehta/index.html",
-    "static/css/main.bb56d157.chunk.css.map": "/sparshmehta/static/css/main.bb56d157.chunk.css.map",
+    "static/css/main.84aa649e.chunk.css.map": "/sparshmehta/static/css/main.84aa649e.chunk.css.map",
     "static/js/2.d5f5fe82.chunk.js.LICENSE.txt": "/sparshmehta/static/js/2.d5f5fe82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7fa2049a.js",
     "static/js/2.d5f5fe82.chunk.js",
-    "static/css/main.bb56d157.chunk.css",
+    "static/css/main.84aa649e.chunk.css",
     "static/js/main.43df0ca2.chunk.js"
   ]
 }
