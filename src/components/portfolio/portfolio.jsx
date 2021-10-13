@@ -26,7 +26,7 @@ export default function Portfolio() {
       title: "Mobile Apps",
     },
     {
-      id: "dataprojects",
+      id: "data",
       title: "Data Science & ML Projects ",
     },
   ];
@@ -45,8 +45,8 @@ export default function Portfolio() {
       case "data":
         setData(datasciencePortfolio);
         break;
-      default:
-        setData(featuredPortfolio);
+      // default:
+      //   setData(featuredPortfolio);
     }
   }, [selected]);
 
