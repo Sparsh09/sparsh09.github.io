@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sparsh09.github.io/static/css/main.4a70714a.chunk.css",
-    "main.js": "/sparsh09.github.io/static/js/main.e8700fc6.chunk.js",
-    "main.js.map": "/sparsh09.github.io/static/js/main.e8700fc6.chunk.js.map",
-    "runtime-main.js": "/sparsh09.github.io/static/js/runtime-main.ba92b013.js",
-    "runtime-main.js.map": "/sparsh09.github.io/static/js/runtime-main.ba92b013.js.map",
-    "static/js/2.d5f5fe82.chunk.js": "/sparsh09.github.io/static/js/2.d5f5fe82.chunk.js",
-    "static/js/2.d5f5fe82.chunk.js.map": "/sparsh09.github.io/static/js/2.d5f5fe82.chunk.js.map",
-    "index.html": "/sparsh09.github.io/index.html",
-    "static/css/main.4a70714a.chunk.css.map": "/sparsh09.github.io/static/css/main.4a70714a.chunk.css.map",
-    "static/js/2.d5f5fe82.chunk.js.LICENSE.txt": "/sparsh09.github.io/static/js/2.d5f5fe82.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.4a70714a.chunk.css",
+    "main.js": "/static/js/main.e8700fc6.chunk.js",
+    "main.js.map": "/static/js/main.e8700fc6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fa5713dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fa5713dc.js.map",
+    "static/js/2.d5f5fe82.chunk.js": "/static/js/2.d5f5fe82.chunk.js",
+    "static/js/2.d5f5fe82.chunk.js.map": "/static/js/2.d5f5fe82.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4a70714a.chunk.css.map": "/static/css/main.4a70714a.chunk.css.map",
+    "static/js/2.d5f5fe82.chunk.js.LICENSE.txt": "/static/js/2.d5f5fe82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba92b013.js",
+    "static/js/runtime-main.fa5713dc.js",
     "static/js/2.d5f5fe82.chunk.js",
     "static/css/main.4a70714a.chunk.css",
     "static/js/main.e8700fc6.chunk.js"
