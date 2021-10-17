@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sparshmehta.github.io/static/css/main.4a70714a.chunk.css",
-    "main.js": "/sparshmehta.github.io/static/js/main.d6c39e52.chunk.js",
-    "main.js.map": "/sparshmehta.github.io/static/js/main.d6c39e52.chunk.js.map",
-    "runtime-main.js": "/sparshmehta.github.io/static/js/runtime-main.87ffd31e.js",
-    "runtime-main.js.map": "/sparshmehta.github.io/static/js/runtime-main.87ffd31e.js.map",
-    "static/js/2.d5f5fe82.chunk.js": "/sparshmehta.github.io/static/js/2.d5f5fe82.chunk.js",
-    "static/js/2.d5f5fe82.chunk.js.map": "/sparshmehta.github.io/static/js/2.d5f5fe82.chunk.js.map",
-    "index.html": "/sparshmehta.github.io/index.html",
-    "static/css/main.4a70714a.chunk.css.map": "/sparshmehta.github.io/static/css/main.4a70714a.chunk.css.map",
-    "static/js/2.d5f5fe82.chunk.js.LICENSE.txt": "/sparshmehta.github.io/static/js/2.d5f5fe82.chunk.js.LICENSE.txt"
+    "main.css": "/sparsh09.github.io/static/css/main.4a70714a.chunk.css",
+    "main.js": "/sparsh09.github.io/static/js/main.e8700fc6.chunk.js",
+    "main.js.map": "/sparsh09.github.io/static/js/main.e8700fc6.chunk.js.map",
+    "runtime-main.js": "/sparsh09.github.io/static/js/runtime-main.ba92b013.js",
+    "runtime-main.js.map": "/sparsh09.github.io/static/js/runtime-main.ba92b013.js.map",
+    "static/js/2.d5f5fe82.chunk.js": "/sparsh09.github.io/static/js/2.d5f5fe82.chunk.js",
+    "static/js/2.d5f5fe82.chunk.js.map": "/sparsh09.github.io/static/js/2.d5f5fe82.chunk.js.map",
+    "index.html": "/sparsh09.github.io/index.html",
+    "static/css/main.4a70714a.chunk.css.map": "/sparsh09.github.io/static/css/main.4a70714a.chunk.css.map",
+    "static/js/2.d5f5fe82.chunk.js.LICENSE.txt": "/sparsh09.github.io/static/js/2.d5f5fe82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.87ffd31e.js",
+    "static/js/runtime-main.ba92b013.js",
     "static/js/2.d5f5fe82.chunk.js",
     "static/css/main.4a70714a.chunk.css",
-    "static/js/main.d6c39e52.chunk.js"
+    "static/js/main.e8700fc6.chunk.js"
   ]
 }
