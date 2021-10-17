@@ -1,5 +1,5 @@
 import "./works.scss";
-import {useState} from 'react';
+import { useState } from "react";
 
 export default function Works() {
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -43,7 +43,7 @@ export default function Works() {
                   </div>
                   <h2>{d.title}</h2>
                   <p>{d.desc}</p>
-                  <span>Projects</span>
+                  {/* <span>Projects</span> */}
                 </div>
               </div>
               <div className="right">
