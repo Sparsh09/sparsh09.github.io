@@ -21,7 +21,7 @@ export const projects = [
     title: 'Tesla UI Clone',
     description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
     image: 'assets/tesla.jpg',
-    tags: ['React', 'WebRTC'],
+    tags: ['React Native', 'Typescript'],
     source: 'https://github.com/Sparsh09/Tesla-UI-Clone-',
     visit: 'https://google.com',
     id: 2,

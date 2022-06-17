@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         Frontend Developer || Hybrid Mobile Development
       </SectionText>
-      <Button onClick={() => window.location = "https://drive.google.com/file/d/1wGeN4cMMvRufmh2uyp61eJOGaF5xCpNr/view?usp=sharing"}>Resume</Button>
+      <Button onClick={() => window.open("https://drive.google.com/file/d/1wGeN4cMMvRufmh2uyp61eJOGaF5xCpNr/view?usp=sharing", "_blank")}>Resume</Button>
     </LeftSection>
   </Section>
 );
