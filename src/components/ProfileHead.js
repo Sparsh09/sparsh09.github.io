@@ -9,7 +9,7 @@ const ProfileHead = () => {
   const [showModal, setShowModal] = useState(false);
 
   return (
-    <div class="flex w-full h-32">
+    <div class="flex lg:w-full md:w-full h-32 sm:w-[50vw]">
       <div className="flex rounded-lg w-full  bg-[url(/assets/cover.jpeg)] bg-no-repeat bg-cover">
         <div className="flex justify-between items-center md:rounded-ld overflow-hidden md:px-10 py-5 bg-blur backdrop-filter backdrop-blur-md w-full gap-2 md:gap-10">
           <div className="flex flex-row items-center">

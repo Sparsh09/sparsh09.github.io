@@ -3,15 +3,15 @@ import ProfileHead from "./ProfileHead";
 import Skills from "./Skills";
 const Profile = () => {
   return (
-    <div className="w-full m-4 rounded flex flex-col">
-      <div className="w-full m-4 rounded flex flex-col justify-around">
+    <div className="w-full lg:m-4 rounded flex flex-col md:m-4 sm:m-0">
+      <div className="w-full lg:m-4 rounded flex flex-col justify-around sm:m-0 md:m-4">
         <ProfileHead />
         <div className="h-full">
           <h2 className="text-2xl text-white">Projects</h2>
           <div className="grid grid-cols">
             <ProfileBody />
           </div>
-          <div>
+          <div className="flex justify-center">
             <Skills />
           </div>
         </div>
