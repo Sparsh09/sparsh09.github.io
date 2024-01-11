@@ -27,15 +27,6 @@ const Contact = (props) => {
             >
               Mail
             </button>
-            <button
-              className="text-blue-600 text-lg hover:text-green-400"
-              onClick={() => {
-                window.location.href = "tel:+91702726441";
-                props.setShowModal(false);
-              }}
-            >
-              Call
-            </button>
           </div>
         </div>
       </main>
