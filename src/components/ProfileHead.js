@@ -37,7 +37,7 @@ const ProfileHead = () => {
               className="bg-[#1c1b23] text-[#89888e] w-[10rem] h-[2rem] rounded-lg"
               onClick={() => {
                 window.open(
-                  "https://drive.google.com/file/d/1iWs8_QLVxxJr_lFvs8dDZciF6F3kluyl/view?usp=sharing",
+                  "https://drive.google.com/file/d/1OwVwPhVfMQjrbthdkprj-m7aPm061lFj/view?usp=drive_link",
                   "_blank"
                 );
               }}
